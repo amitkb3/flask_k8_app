@@ -32,3 +32,5 @@ htmlcov/
 .direnv
 
 tmp/
+# Allow
+!env_file
